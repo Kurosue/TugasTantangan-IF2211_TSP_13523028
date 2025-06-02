@@ -2,7 +2,7 @@
  
 <div align="center">
   <img width="65%"src="https://github.com/user-attachments/assets/fbb348a6-cd98-46ec-930f-81c66ec59725" alt="App Preview(placeholder bini guweh)" />
-  <br><strong> Firefly with me at last weekend after UAS :D( ofc, i took this photo)
+  <br><strong> Firefly with me at last weekend before UAS Week :D( ofc, i took this photo)
 </div>
 
  <div align="center">
