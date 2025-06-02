@@ -1,0 +1,14 @@
+#!/bin/bash
+# Compile tsp.rs dan letakkan hasilnya di bin/tsp
+set -e
+
+SRC="src/tsp.rs"
+OUT="bin/tsp"
+
+echo "Compiling $SRC..."
+mkdir -p bin
+rustc "$SRC" -o "$OUT"
+echo "Compiled successfully to $OUT"
+
+echo "Running program..."
+./$OUT
