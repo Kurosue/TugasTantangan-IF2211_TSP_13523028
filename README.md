@@ -23,6 +23,7 @@
   - [Requirements](#requirements)
   - [Installing Dependencies and Requirement](#installing-dependencies-and-requirement)
 - [How to Run](#how-to-run)
+- [Screenshot](#screenshot-program)
 - [Author](#author)
 
 ---
@@ -84,11 +85,21 @@ Contoh Input:
     ```
  3. Start the application using Docker Compose:
     ```bash
-    chmod +x run | ./run   // For Linux
+    chmod +x run | ./run   # For Linux
   
-    run.bat // For Windows
+    run.bat # For Windows
     ```
  ---
+## Screenshot Program
+- Input
+  
+![image](https://github.com/user-attachments/assets/237a2175-aa7b-49a5-8927-1bf0b48005dc)
+- Output
+
+![image](https://github.com/user-attachments/assets/7edcc431-3365-443e-b60c-e988a304dd98)
+
+
+ 
  <!-- CONTRIBUTOR -->
 ## Author
 **Muhammad Aditya Rahmadeni - 13523028**
